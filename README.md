@@ -20,4 +20,4 @@ Old personal portfolio.
 
 ## Author
 
-[David Tran](http://davidtranscend.com/)
+[David Tran](http://davidtranscend.com/) 
